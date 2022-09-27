@@ -7,7 +7,7 @@
 }
 body {
   line-height: 1.5;
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(./images/pattern-background-desktop.svg);
   background-repeat: repeat-x;
   background-color: hsl(225, 100%, 94%);
   color: hsl(224, 23%, 55%);
